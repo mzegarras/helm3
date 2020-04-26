@@ -3,7 +3,17 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-26T16:37:06.186386-05:00"
+    created: "2020-04-26T16:50:08.83131-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 6e349d06298565e8cf51dcae489e8b06090309368311c3bd4258bf4876f7a551
+    name: microservice
+    type: application
+    urls:
+    - https://mzegarras.github.io/helm3/microservice-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-26T16:50:08.830565-05:00"
     description: A Helm chart for Kubernetes
     digest: 110a5f3ea87012b9716def27b62cf4486d2d39b370c1ebf319e49cd421645836
     name: microservice
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://mzegarras.github.io/helm3/microservice-0.0.1.tgz
     version: 0.0.1
-generated: "2020-04-26T16:37:06.184056-05:00"
+generated: "2020-04-26T16:50:08.826647-05:00"
